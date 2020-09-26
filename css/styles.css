@@ -1,0 +1,171 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Ubuntu', sans-serif;
+}
+
+h1 {
+  margin-top: 0;
+  margin-bottom: 0;
+  font-size: 90px;
+  color: #66BFBF;
+}
+
+h2{
+  color: #66BFBF;
+  font-size: 20px;
+}
+
+h3{
+ color: #11999E;
+ font-size: 22px
+}
+
+a{
+  color: #11999E;
+  margin: 0 10px 0;
+  font-family: 'Ubuntu', sans-serif;
+}
+
+a:hover{
+  color: #EAF6F6
+}
+
+p{
+  font-family: 'Ubuntu', sans-serif;
+  color: #40514E
+}
+
+hr {
+  border:none;
+  border-top:7px dotted #838383;
+  color:#838383;
+  width:07%;
+  opacity: 70%;
+  padding: 50px 0 50px 0;
+}
+
+.top-cont {
+  background-color: #d9ecf2;
+  width: 1920px;
+}
+
+/*.mid-cont {
+
+}
+
+.bot-cont {
+
+}*/
+
+.skill-row{
+  margin: 100px auto 100px auto;
+  width: 50%;
+  text-align: left;
+  line-height: 4;
+}
+
+.skills{
+  font-size: 30px
+}
+
+.mountain {
+  margin-top: 220px;
+  height: 585px;
+  width: 980px;
+}
+
+.cloudbot {
+  position: absolute;
+  left: 600px;
+  top: 300px;
+}
+
+.cloudtop {
+  position: relative;
+  left: 120px;
+  top: 25px;
+}
+
+.tsgd {
+  position: relative;
+  top: 40px;
+}
+
+.laptop {
+  width: 500px;
+  height: 500px;
+}
+
+.skill-txt{
+  line-height: 2;
+}
+
+.sk-de{
+  width: 25%;
+  float: left;
+  margin-right: 30px
+}
+
+.sk-lp{
+  width: 25%;
+  float: right;
+  margin-left: 30px
+}
+
+.myButton {
+	box-shadow: 0 0 0 2px #28adad;
+	background:linear-gradient(to bottom, #a2f2f2 5%, #66bfbf 100%);
+	background-color:#a2f2f2;
+	border-radius:10px;
+	border:1px solid #adffff;
+	display:inline-block;
+	cursor:pointer;
+	color:#e0ffff;
+	font-family:Arial;
+	font-size:19px;
+	padding:12px 37px;
+	text-decoration:none;
+	text-shadow:0 1px 0 #000000;
+}
+
+.bottom-container{
+  background-color: #66BFBF;
+  padding-bottom: 50px;
+  padding-top: 50px;
+}
+
+.myButton:hover {
+	background:linear-gradient(to bottom, #66bfbf 5%, #a2f2f2 100%);
+	background-color:#66bfbf;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
+.footer-link{
+  color: #11999E;
+  font-size: 20px;
+  text-decoration: none;
+  font-family: 'Ubuntu', sans-serif;
+}
+
+.footer-link2{
+  color: #11999E;
+  font-size: 20px;
+  text-decoration: none;
+  position: relative;
+  left: 20px;
+  font-family: 'Ubuntu', sans-serif;
+}
+
+.contact-me{
+  padding-bottom: 30px;
+}
+
+.cp{
+  position: relative;
+  top: 40px;
+  color: #EAF6F6;
+  font-size: 13px
+}
